@@ -1,0 +1,2 @@
+저장소를 https://github.com/marchislike/good 로 쓰고 그냥 커밋, 푸쉬하니깐 잘 됩니다
+토큰, 이런거 없이도 잘 되네요 ㅋㅋㅋㅋ
